@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="HTML Parser Test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PROGRAM_PARAMS="--gtest_catch_exceptions=false" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="search_engine" TARGET_NAME="html_parser_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="search_engine" RUN_TARGET_NAME="html_parser_test" TEST_MODE="SUITE_TEST">
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      <option name="BeforeTestRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>

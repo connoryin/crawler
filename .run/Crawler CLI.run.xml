@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Crawler CLI" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="--seed_file=seed_file.txt --num_threads=$Prompt$ --log_path=crawler.log --data_dir=data/ --checkpoint_path=crawler_checkpoint.txt --stats_refresh_interval=5 --expected_num_urls=20000000 --checkpoint_interval=600" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$ProjectFileDir$/test/crawler" PASS_PARENT_ENVS_2="true" PROJECT_NAME="search_engine" TARGET_NAME="crawler_cli" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="search_engine" RUN_TARGET_NAME="crawler_cli">
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
